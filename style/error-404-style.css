@@ -1,0 +1,75 @@
+body, html {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  margin: 0;
+}
+
+body a, html a {
+  text-decoration: none;
+}
+
+header {
+  padding: 2em;
+}
+
+#header-container #pluto-logo {
+  width: 80px;
+  padding-left: 2em;
+}
+
+#header-container #pluto-logo .pluto-title-logo {
+  cursor: pointer;
+  float: left;
+}
+
+#header-container #home-option {
+  width: 54px;
+  float: right;
+  padding: 0.5em;
+  padding-right: 2em;
+}
+
+#header-container #home-option .home-option-method {
+  cursor: pointer;
+}
+
+#header-container #docs-option {
+  width: 145px;
+  float: right;
+  padding: 0.5em;
+  padding-left: 2em;
+}
+
+#header-container #docs-option .doc-option-method {
+  cursor: pointer;
+}
+
+#header-container #help-option {
+  width: 45px;
+  float: right;
+  padding: 0.43em;
+}
+
+#header-container #help-option .help-option-method {
+  cursor: pointer;
+}
+
+#header-container #github-option {
+  width: 64px;
+  float: right;
+  padding: 0.5em;
+}
+
+#header-container #github-option .github-option-method {
+  cursor: pointer;
+}
+
+#alert-section {
+  text-align: center;
+  padding-top: 5em;
+}
+
+#alert-section .alert-container {
+  width: 400px;
+  cursor: pointer;
+}
+/*# sourceMappingURL=error-404-style.css.map */
