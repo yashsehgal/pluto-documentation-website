@@ -1,2 +1,27 @@
-@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap");
+body, html {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  margin: 0;
+}
+
+body a, html a {
+  text-decoration: none;
+}
+
+header {
+  padding: 2em;
+}
+
+#header-container #pluto-logo .pluto-title-logo {
+  width: 10px;
+}
+
+#alert-section {
+  text-align: center;
+  padding-top: 12em;
+}
+
+#alert-section .alert-container {
+  width: 400px;
+  cursor: pointer;
+}
 /*# sourceMappingURL=index-style.css.map */
