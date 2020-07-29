@@ -1,3 +1,5 @@
+![CI](https://github.com/yashsehgal/pluto-documentation-website/workflows/CI/badge.svg)
+
 # PLUTO - DOCUMENTATION
 
 Open Source website 
